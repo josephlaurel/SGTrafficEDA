@@ -1,4 +1,4 @@
-# A Comparison of Singapore Highway Traffic in January 2019 and 2020 using Computer Vision Object Detection
+# Analyzing the Impact of COVID-19 on Singapore Highway Traffic using Computer Vision
 
 ## Overview
 * Performed exploratory data analysis to compare Singapore highway traffic at the start of the COVID-19 outbreak vs. the previous year
