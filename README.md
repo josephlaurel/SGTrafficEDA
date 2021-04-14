@@ -6,5 +6,5 @@
 * Detected the number of cars in images using computer vision and revealed that traffic volume was largely unchanged vs. the previous year
 
 ## Code and Resources Used
-<b> Python Version: <b> 3.7
-<b> Packages: <b> requests, pandas, geopandas, matplotlib, geoplot, json, contextily, datetime, time, concurrent
+<b> Python Version: </b> 3.7 <br>
+<b> Packages: </b> requests, pandas, geopandas, matplotlib, geoplot, json, contextily, datetime, time, concurrent
