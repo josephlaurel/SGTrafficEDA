@@ -7,7 +7,7 @@
 
 ## Code and Resources Used
 <b> Python Version: </b> 3.7 <br>
-<b> Packages: </b> requests, pandas, geopandas, matplotlib, geoplot, json, contextily, datetime, time, concurrent, os, io, PIL, cv2 <br>
+<b> Packages: </b> requests, pandas, geopandas, matplotlib, geoplot, json, contextily, datetime, time, concurrent, os, io, PIL, cv2, cvlib, seaborn <br>
 <b> Data used for Mapping Areas of Singapore: </b> [Master Plan 2014 Subzone Boundary (No Sea)](https://data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea)
 
 ## Data Collection
