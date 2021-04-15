@@ -25,4 +25,4 @@
 * <b> num_cars </b> (engineered feature): The number of cars in the image as detected using the cv2 package
 
 ## Key Findings
-![Monthly Traffic](Graphs/monthly%traffic.png)
+![Monthly Traffic](Graphs/monthly traffic.png)
