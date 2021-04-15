@@ -12,7 +12,7 @@
 <b> Guide to OpenCV Set-Up: </b> ["How to use OpenCV with GPU on Colab?" by C Kuan](https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f)
 
 ## Data Collection
-<p align='justify'> API requests returned metadata on 89,282 images captured once per minute by 323 traffic cameras across Singapore in January 2019 and January 2020. Downtown traffic was used as a proxy for overall traffic throughout Singapore. Hence, the analysis focused on images captured by camera 1709 located in the downtown area. The dataset includes 30,234 images from January 2019 and 29,940 images from January 2020. <br><br> The following features were obtained:</p>
+<p align='justify'> API requests returned JSON objects metadata on 89,282 images captured once per minute by 323 traffic cameras across Singapore in January 2019 and January 2020. Downtown traffic was used as a proxy for overall traffic throughout Singapore. Hence, the analysis focused on images captured by camera 1709 located in the downtown area. The dataset includes 30,234 images from January 2019 and 29,940 images from January 2020. <br><br> The following features were obtained:</p>
 
 * <b> timestamp: </b> The date and time that the image was captured, written in W3C format
 * <b> image: </b> The url containing the traffic image
