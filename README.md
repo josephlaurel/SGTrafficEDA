@@ -2,7 +2,7 @@
 
 ## Overview
 * Performed exploratory data analysis to compare Singapore highway traffic in January 2019 vs. January 2020
-* Scraped 60,170 downtown traffic images with time and geolocation data from the [Government of Singapore's API](https://data.gov.sg/dataset/traffic-images)
+* Scraped 60,211 downtown traffic images with time and geolocation data from the [Government of Singapore's API](https://data.gov.sg/dataset/traffic-images)
 * Detected the number of cars in images using OpenCV and revealed that traffic volume was largely unchanged vs. the previous year
 
 ## Code and Resources Used
@@ -12,7 +12,7 @@
 <b> Guide to OpenCV Set-Up: </b> ["How to use OpenCV with GPU on Colab?" by C Kuan](https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f)
 
 ## Data Collection
-<p align='justify'> API requests returned metadata on 89,282 images captured once per minute by 323 traffic cameras across Singapore in January 2019 and January 2020. Downtown traffic was used as a proxy for overall traffic throughout Singapore. Hence, the analysis focused on images captured by camera 1709 located in the downtown area. The dataset includes 30,233 images from January 2019 and 29,937 images from January 2020. <br><br> The following features were obtained:</p>
+<p align='justify'> API requests returned metadata on 89,282 images captured once per minute by 323 traffic cameras across Singapore in January 2019 and January 2020. Downtown traffic was used as a proxy for overall traffic throughout Singapore. Hence, the analysis focused on images captured by camera 1709 located in the downtown area. The dataset includes 30,234 images from January 2019 and 29,977 images from January 2020. <br><br> The following features were obtained:</p>
 
 * <b> timestamp: </b> The date and time that the image was captured, written in W3C format
 * <b> image: </b> The url containing the traffic image
