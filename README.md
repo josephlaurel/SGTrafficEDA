@@ -8,7 +8,7 @@
 ## Code and Resources Used
 <b> Python Version: </b> 3.7 <br>
 <b> Packages: </b> requests, pandas, geopandas, libproj-dev proj-data proj-bin, libgeos-dev, cython, cartopy, geoplot, matplotlib, geoplot, json, contextily, datetime, time, concurrent, os, io, PIL, cv2, cvlib, seaborn <br>
-<b> Data used for Mapping Areas of Singapore: </b> [Master Plan 2014 Subzone Boundary (No Sea)](https://data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea) <br>
+<b> Coordinates used for Map of Singapore: </b> [Master Plan 2014 Subzone Boundary (No Sea)](https://data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea) <br>
 <b> Guide to OpenCV Set-Up: </b> ["How to use OpenCV with GPU on Colab?" by C Kuan](https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f)
 
 ## Data Collection
@@ -23,6 +23,9 @@
 * <b> image_metadata.width: </b> The width of the traffic image, measured in pixels
 * <b> image_metadata.md5: </b> The metadata of the image stored in MD5 format
 * <b> num_cars </b> (engineered feature): The number of cars in the image as detected using the cv2 package
+
+## Data Exploration
+Scraped camera locations and names of key downtown subzones were plotted on the map of Singapore. Based on the plot, camera 1709 was found to be located between the geographical center of Singapore and the coastal downtown area. Hence, traffic volume captured by this camera was the focus of the analysis.
 
 ## Key Findings
 
