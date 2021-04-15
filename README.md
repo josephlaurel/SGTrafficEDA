@@ -1,4 +1,6 @@
 # Analyzing the Impact of COVID-19 on Singapore Traffic using Computer Vision
+A Project by [Joseph Laurel](https://www.linkedin.com/in/josephlaurel/)
+Mentored by [Jackie Tan](https://www.linkedin.com/in/jackietanyen)
 
 ## Overview
 * Performed time series analysis to compare Singapore highway traffic in January 2019 vs. January 2020
