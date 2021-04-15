@@ -1,5 +1,5 @@
 # Analyzing the Impact of COVID-19 on Singapore Traffic using Computer Vision
-A Project by [Joseph Laurel](https://www.linkedin.com/in/josephlaurel/)
+A Project by [Joseph Laurel](https://www.linkedin.com/in/josephlaurel/) <br>
 Mentored by [Jackie Tan](https://www.linkedin.com/in/jackietanyen)
 
 ## Overview
