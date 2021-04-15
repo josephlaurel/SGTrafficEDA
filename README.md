@@ -27,5 +27,5 @@
 ## Key Findings
 ![Monthly Traffic](Graphs/monthly%20traffic.png)
 <p align='justify'> For the majority of January 2020, there was no significant difference in traffic volume compared to the same month in 2019. However, traffic from January 23 to 27, 2020 was lower by several hundred cars per day versus the same period in the previous year. As Singapore reported its first COVID-19 case on January 23, 2020 <i><a href='https://www.channelnewsasia.com/news/singapore/singapore-covid-19-outbreak-evolved-coronavirus-deaths-timeline-12639444'> (Channel News Asia, 2020),</a> </i> we may infer that this event was associated with the relatively lower traffic levels. </p> <br>
-![Weekly Traffic](Graphs/Weekly%20traffic.png)
+![Weekly Traffic](Graphs/weekly%20traffic.png)
 <p align='justify'> Average traffic volume on each day of the week in 2019 and 2020 does not appear to have differed significantly. This suggests that the start of the COVID-19 outbreak was not correlated with a notable shift in weekly traffic trends. <p>
