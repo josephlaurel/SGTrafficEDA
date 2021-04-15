@@ -1,7 +1,7 @@
 # Analyzing the Impact of COVID-19 on Singapore Traffic using Computer Vision
 
 ## Overview
-* Performed exploratory data analysis to compare Singapore highway traffic in January 2019 vs. January 2020
+* Performed time series analysis to compare Singapore highway traffic in January 2019 vs. January 2020
 * Scraped 60,174 downtown traffic images with time and geolocation data from the [Government of Singapore's API](https://data.gov.sg/dataset/traffic-images)
 * Detected the number of cars in images using OpenCV and revealed that traffic volume was largely unchanged vs. the previous year
 
