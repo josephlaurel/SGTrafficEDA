@@ -25,7 +25,15 @@
 * <b> num_cars </b> (engineered feature): The number of cars in the image as detected using the cv2 package
 
 ## Data Exploration
+![Downtown Singapore](Graphs/downtown_sg.png)
 Scraped camera locations and names of key downtown subzones were plotted on the map of Singapore. Based on the plot, camera 1709 was found to be located between the geographical center of Singapore and the coastal downtown area. Hence, traffic volume captured by this camera was the focus of the analysis.
+
+## Data Preparation
+* Rows of data with identical image URLs were dropped.
+* Images were extracted concurrently from the scraped URLs. Counts of car in the images were detected using OpenCV and were appended to the dataframes.
+![Labeled Cars](Graphs/labeled_cars.png)
+* Timestamp strings were converted to datetime objects to allow the dataframes to be sorted chronologically.
+* The converted timestamps were set as the dataframe indices to allow the data to be resampled by day.
 
 ## Key Findings
 
