@@ -23,3 +23,5 @@
 * <b> image_metadata.width: </b> The width of the traffic image, measured in pixels
 * <b> image_metadata.md5: </b> The metadata of the image stored in MD5 format
 * <b> num_cars </b> (engineered feature): The number of cars in the image as detected using the cv2 package
+
+## Key Findings
