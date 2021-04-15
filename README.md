@@ -8,7 +8,7 @@
 ## Code and Resources Used
 <b> Python Version: </b> 3.7 <br>
 <b> Packages: </b> requests, pandas, geopandas, libproj-dev proj-data proj-bin, libgeos-dev, cython, cartopy, geoplot, matplotlib, geoplot, json, contextily, datetime, time, concurrent, os, io, PIL, cv2, cvlib, seaborn <br>
-<b> Data used for Mapping Areas of Singapore: </b> [Master Plan 2014 Subzone Boundary (No Sea)](https://data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea)
+<b> Data used for Mapping Areas of Singapore: </b> [Master Plan 2014 Subzone Boundary (No Sea)](https://data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea) <br>
 <b> Guide to OpenCV Set-Up: </b> ["How to use OpenCV with GPU on Colab?" by C Kuan](https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f)
 
 ## Data Collection
